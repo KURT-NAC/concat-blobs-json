@@ -1,6 +1,6 @@
 # concat-blobs
 
-reads paths and configuration for concatinating blob scripts
+reads paths and configuration for concatinating blobs
 
 #### config example
 ~~~~
