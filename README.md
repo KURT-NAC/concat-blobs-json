@@ -2,5 +2,5 @@
 
 reads paths and configuration for concat scripts
 
-### build scripts
+#### how to build the scripts
 npm start
