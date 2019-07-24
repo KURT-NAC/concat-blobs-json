@@ -1,4 +1,4 @@
-# concat-blobs
+# concat-blobs-json
 
 simple node app that generates a script based on a combination of blobs, configurable via json file.
 
