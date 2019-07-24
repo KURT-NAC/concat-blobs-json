@@ -2,7 +2,7 @@
 
 reads paths and configuration for concat scripts
 
-#### config
+#### config example
 ~~~~
 {
   "filePaths": {
