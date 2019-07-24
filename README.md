@@ -1,6 +1,6 @@
 # concat-blobs-json
 
-simple node app that generates a script based on a combination of blobs, configurable via json file.
+simple node app that could generate multiple script files based on a combination of blobs, configurable via json file.
 
 #### config example
 ~~~~
