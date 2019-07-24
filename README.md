@@ -3,7 +3,7 @@
 reads paths and configuration for concat scripts
 
 #### config
-`
+~~~~
 {
   "filePaths": {
     "blob1": "./blobs/blob1.js",
@@ -15,7 +15,7 @@ reads paths and configuration for concat scripts
     }
   }
 }
-`
+~~~~ 
 
 #### how to build the scripts
 > npm start
