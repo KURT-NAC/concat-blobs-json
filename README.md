@@ -1,6 +1,6 @@
 # concat-blobs
 
-reads paths and configuration for concatinating blobs
+simple node app that generates a script based on a combination of blobs, configurable via json.
 
 #### config example
 ~~~~
