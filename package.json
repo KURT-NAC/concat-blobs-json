@@ -1,0 +1,12 @@
+{
+  "name": "cau",
+  "version": "1.0.0",
+  "scripts": {
+    "clean": "rimraf ./deploy",
+    "start": "npm run clean; node app.js"
+  },
+  "dependencies": {
+    "concat-files": "^0.1.1",
+    "rimraf": "^2.6.3"
+  }
+}

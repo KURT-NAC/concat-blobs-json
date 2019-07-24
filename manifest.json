@@ -1,0 +1,33 @@
+{
+    "filePaths": {
+        "sid": "./blobs/getCookie.js",
+        "b1": "./blobs/blob1.js",
+        "b2": "./blobs/blob2.js",
+        "b3": "./blobs/blob3.js",
+        "cbf": "./blobs/cbf.js"
+    },
+    "cau": [
+        {
+            "pageType": "login",
+            "blobs": [
+                "sid",
+                "b1"
+            ]
+        },
+        {
+            "pageType": "enroll",
+            "blobs": [
+                "sid",
+                "b2"
+            ]
+        },
+        {
+            "pageType": "abpa",
+            "blobs": [
+                "sid",
+                "b2",
+                "cbf"
+            ]
+        }
+    ]
+}
