@@ -19,3 +19,7 @@ reads paths and configuration for concatinating blob scripts
 
 #### how to build the scripts
 > npm start
+
+
+#### clean task (deletes deploy dir)
+> npm run clean
